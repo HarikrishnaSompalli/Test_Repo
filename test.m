@@ -1,3 +1,3 @@
-function [n] = myfun(x)
+function [n] = test(x)
 n = length(x);
 end
