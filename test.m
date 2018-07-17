@@ -1,5 +1,3 @@
-function [m,s] = test(x)
+function [n] = test(x)
 n = length(x);
-m = sum(x)/n;
-s = sqrt(sum((x-m).^2/n));
 end
