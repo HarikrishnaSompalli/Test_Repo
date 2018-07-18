@@ -1,3 +1,3 @@
 function [n] = test(x)
-n = length(x);
+n = x+1;
 end
