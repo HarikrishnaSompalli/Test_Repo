@@ -1,3 +1,3 @@
-function [n] = test(x)
+function [n] = test1(x)
 n = x+1;
 end
